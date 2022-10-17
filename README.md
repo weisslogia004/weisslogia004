@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @weisslogia004
-- 👀 I’m interested in coding. football, martial arts
+- 👀 I’m interested in coding, making pencil sketches, football, martial arts
 - 🌱 I've learned Java(BlueJ) & currently learning HTML
 - 💞️ I’m looking to collaborate on Python and Java including HTML
 - 📫 How to reach me @Agniv Haldar(twitter handle)
